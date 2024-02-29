@@ -4,7 +4,8 @@ Features:
 Current Weather: Users can get the current weather conditions for a specified location.
 
 Technologies Used:
-Programming Language: HTML, CSS, JavaScript
+
+Programming Language: HTML, CSS, JavaScript.
 APIs: OpenWeatherMap API, Weatherstack API, etc.
 
 ## Usage
