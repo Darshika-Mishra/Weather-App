@@ -6,9 +6,11 @@ Current Weather: Users can get the current weather conditions for a specified lo
 Technologies Used:
 
 Programming Language: HTML, CSS, JavaScript.
+
 APIs: OpenWeatherMap API, Weatherstack API, etc.
 
 ## Usage
+
 1. Launch the Application : Open the web application in a browser.
 2. Input Location : Enter the desired location or city name in the provided field.
 3. Get Weather Data : Click on the appropriate button to fetch either current weather or forecast.
